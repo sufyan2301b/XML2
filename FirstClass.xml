@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml-stylesheet type="text/xsl" href="index.xsl">
+
+<!-- <!DOCTYPE class[
+<!ELEMENT class(stdname , age , address)
+
+<!ELEMENT stdname (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+]> -->
+<school>
+<class id="1">
+<stdname>Sufyan</stdname>
+<age>15</age>
+<address>Karachi</address>
+</class>
+<class id="2">
+<stdname>Shahab</stdname>
+<age>17</age>
+<address>Karachi</address>
+</class>
+</school>

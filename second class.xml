@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<structure xmlns:a="file:///C:/Users/Administrator/Desktop/Eproject%20red%20card%20limited%20(4)%20Final/index.html">
+<ecommerce>
+<cards category="Occasion Cards">
+<a:names>Wedding Cards</a:names>
+<a:prize>500</a:prize>
+
+</cards>
+
+<cards category="Occasion Cards">
+<a:names>Birthday Cards</a:names>
+<a:prize>500</a:prize>
+
+</cards>
+
+<cards category="Occasion Cards">
+<a:names>Father Day Cards</a:names>
+<a:prize>500</a:prize>
+
+</cards>
+
+<cards category="Occasion Cards">
+<a:names>Mother Day Cards</a:names>
+<a:prize>500</a:prize>
+
+</cards>
+
+<cards category="Occasion Cards">
+<a:names>New Year Cards</a:names>
+<a:prize>500</a:prize>
+
+</cards>
+</ecommerce>
+</structure>
